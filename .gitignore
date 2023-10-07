@@ -5,7 +5,7 @@ __pycache__/
 
 # Ignore all files in the 'venv' directory except for 'pyenv.cfg'
 cuda/*
-!cuda/pyenv.cfg
+!cuda/pyvenv.cfg
 
 # Ignore other Conda environment files
 venv/
